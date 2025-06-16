@@ -1,0 +1,12 @@
+main_database:
+    host: localhost
+    port: "5432"
+    username: postgres
+    password: TdPg@dmin1
+    database: td
+
+time_series_database:
+    host: localhost
+    port: "5432"
+    username: admin
+    password: secret
